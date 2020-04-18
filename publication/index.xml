@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Ashish Sinha</title>
+    <link>https://sinashish.github.io/publication/</link>
+    <description>Recent content in Publications on Ashish Sinha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://sinashish.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-scale guided attention for medical image segmentation</title>
+      <link>https://sinashish.github.io/publication/multiscale/</link>
+      <pubDate>Tue, 18 Dec 2018 16:42:06 +0530</pubDate>
+      
+      <guid>https://sinashish.github.io/publication/multiscale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
